@@ -1,0 +1,7 @@
+E:\cloud_software\sumeet\kuwait-delivery-app\com.courier_app\bin\com.courier_app.dll
+E:\cloud_software\sumeet\kuwait-delivery-app\com.courier_app\bin\com.courier_app.pdb
+E:\cloud_software\sumeet\kuwait-delivery-app\com.courier_app\obj\Debug\com.courier_app.csprojResolveAssemblyReference.cache
+E:\cloud_software\sumeet\kuwait-delivery-app\com.courier_app\obj\Debug\com.courier_app.dll
+E:\cloud_software\sumeet\kuwait-delivery-app\com.courier_app\obj\Debug\com.courier_app.pdb
+E:\cloud_software\sumeet\kuwait-delivery-app\com.courier_app\bin\common_code.dll
+E:\cloud_software\sumeet\kuwait-delivery-app\com.courier_app\bin\common_code.pdb
